@@ -13,7 +13,7 @@ All the videos will be in MPEG-4 Part 14 (MP4 😉) format.
 # clone the repo
 $ git clone https://github.com/sameera-madushan/Facebook-Video-Downloader.git
 
-# change the working directory to InstaSave
+# change the working directory to Facebook-Video-Downloader
 $ cd Facebook-Video-Downloader
 
 # install the requirements
