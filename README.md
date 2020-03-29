@@ -21,7 +21,7 @@ $ pip3 install -r requirements.txt
 ```
 ## Usage
 ```
-python instasave.py
+python downloader.py
 ```
 
 ## For your Attention
