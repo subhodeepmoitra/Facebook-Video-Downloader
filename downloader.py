@@ -53,9 +53,9 @@ def main():
 
         if len(list) == 2:
             if 1 in list and 2 in list:
-                _input_2 = str(input("Oops! The video is not available in HD quality. Would you like to download it? ('Y' or 'N'): ")).upper()
+                _input_2 = str(input("\nOops! The video is not available in HD quality. Would you like to download it? ('Y' or 'N'): ")).upper()
                 if _input_2 == 'Y':
-                    print("\nDownloading the video in SD quality")
+                    print("\nDownloading the video in SD quality... \n")
                     video_url = re.search(r'sd_src:"(.+?)"', html).group(1)
                     file_size_request = requests.get(video_url, stream=True)
                     file_size = int(file_size_request.headers['Content-Length'])
@@ -73,9 +73,9 @@ def main():
 
         if len(list) == 2:
             if 0 in list and 3 in list:
-                _input_2 = str(input("Oops! The video is not available in SD quality. Would you like to download it? ('Y' or 'N'): \n")).upper()
+                _input_2 = str(input("\nOops! The video is not available in SD quality. Would you like to download it? ('Y' or 'N'): \n")).upper()
                 if _input_2 == 'Y':
-                    print("\nDownloading the video in HD quality")
+                    print("\nDownloading the video in HD quality... \n")
                     video_url = re.search(r'hd_src:"(.+?)"', html).group(1)
                     file_size_request = requests.get(video_url, stream=True)
                     file_size = int(file_size_request.headers['Content-Length'])
@@ -126,3 +126,4 @@ try:
 
 except KeyboardInterrupt:
     print("\nProgramme Interrupted")
+    
