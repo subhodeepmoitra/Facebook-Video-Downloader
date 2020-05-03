@@ -12,7 +12,7 @@ All the videos will be in MPEG-4 Part 14 (MP4 😉) format.
 
 ![fb_v](https://user-images.githubusercontent.com/55880211/76889697-0ec9ef00-68ac-11ea-934d-916ccc5e1ea9.gif)
 
-### Git Installation
+## Git Installation
 ```
 # clone the repo
 $ git clone https://github.com/sameera-madushan/Facebook-Video-Downloader.git
@@ -31,7 +31,7 @@ python downloader.py
 ## For your Attention
 If you are downloading copyrighted content you should respect author's rights and use the content either for personal purposes or for non-commercial needs with proper mention and authorisation from the author.
 
-### Support & Contributions
+## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
 
