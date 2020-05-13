@@ -36,4 +36,4 @@ If you are downloading copyrighted content you should respect author's rights an
 - Contributions of any kind welcome!
 
 ## License
-SubtitleBOX is made with ♥ by [@_\_sa_miya__](https://twitter.com/__sa_miya__) and it is released under the GPL-3.0 license.
+Facebook Video Downloader is made with ♥ by [@_\_sa_miya__](https://twitter.com/__sa_miya__) and it is released under the GPL-3.0 license.
