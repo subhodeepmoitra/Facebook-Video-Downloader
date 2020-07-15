@@ -37,3 +37,13 @@ If you are downloading copyrighted content you should respect author's rights an
 
 ## License
 Facebook Video Downloader is made with ♥ by [@_\_sa_miya__](https://twitter.com/__sa_miya__) and it is released under the GPL-3.0 license.
+
+## Contributors
+
+Thanks goes to this wonderful person. :heart:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/treszkai"><img src="https://avatars3.githubusercontent.com/u/30578582?s=400&u=c10871016433231ea9439c6cd6735125cb54825a&v=4" width="100px;" alt=""/><br /><sub><b>Laszlo</b></sub></a></td>
+
+</table>
